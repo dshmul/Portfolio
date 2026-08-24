@@ -329,6 +329,8 @@ a { color: inherit; text-decoration: inherit; }
 .beyond-sub { color: #94a3b8; font-size: .8rem; }
 
 /* Featured on */
+.feature-list { display: flex; flex-direction: column; gap: 8px; }
+
 .feature-card {
   align-items: center;
   background: #fff;
